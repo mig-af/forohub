@@ -69,4 +69,4 @@ Tener instalado el lenguaje y las librerias usadas, configurar las variables de 
 
 Contacto
 -
-[![Autor](https://img.shields.io/badge/Autor-Miguel%20Af-blue)](https://tm.me/pes528)
+[![Autor](https://img.shields.io/badge/Autor-Miguel%20Af-blue)](https://t.me/pes528)
