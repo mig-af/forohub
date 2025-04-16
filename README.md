@@ -8,7 +8,7 @@
 [![Autor](https://img.shields.io/badge/Autor-Miguel%20Af-blue)](https://tm.me/pes528)
 
 
-# Introduccion
+# Introduccion.
 
 
 Bienvenido a forohub. Esta API te permite crear, leer, actualizar y eliminar tus propios articulos, notas, publicaciones, redacciones etc.
